@@ -1,0 +1,1240 @@
+{
+  "intervalo_minutos": 1,
+  "frases": [
+    {
+      "frase": "Cada hotel guarda los susurros de quienes nunca se fueron, ecos atrapados entre paredes que recuerdan mejor que nosotros.",
+      "titulo": "En cada hotel",
+      "publicacion": "Antología Hoja en Blanco"
+    },
+    {
+      "frase": "La locura no es el fin del universo, sino su verdadero comienzo, donde las leyes se doblan y la razón se quiebra.",
+      "titulo": "Por la flecha del universo",
+      "publicacion": "Antología Hoja en Blanco"
+    },
+    {
+      "frase": "Los monstruos no habitan en las sombras del templo, sino en las decisiones que tomamos para llegar hasta él.",
+      "titulo": "Travesía al Templo de Quiatra",
+      "publicacion": "Antología Hoja en Blanco"
+    },
+    {
+      "frase": "La nigromancia es el arte de recordar a los muertos, pero ¿quién nos protege cuando ellos deciden recordarnos a nosotros?",
+      "titulo": "Almas en botella",
+      "publicacion": "Fobos y Deimos"
+    },
+    {
+      "frase": "En las montañas de la locura no encontramos monstruos, sino el espejo de lo que somos capaces de hacer.",
+      "titulo": "Herencia olvidada",
+      "publicacion": "Antología de Terror Vol. 2"
+    },
+    {
+      "frase": "Las palabras podrán hacerme falta al intentar contarlo todo, pero sucedió.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Creer a alguien capaz de hacer cosas que desafían la lógica es difícil, pero más difícil es negar lo que ya viste.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "El único hechizo que funcionó, sin tener más ritual que la constancia, fue el de fortalecer nuestra amistad.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "El desvanecer de ese personaje debía ocurrir, cruzó con paso seguro, firme y decidido a través del árbol, entonces desapareció.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Hay veces que el plan de Dios es que unos pocos carguen el dolor de los débiles.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Nunca hubo peligro, porque todo era una fantasía de la ficción... se supone que lo era.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Los representantes del misterio, en caso de existir, permanecen en el anonimato o protegidos por logias secretas que guardan el secreto con celo.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "La magia es un equilibrio: mientras se comparte con el universo, una sola persona no puede tenerla.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "No necesitas poderes místicos para herir el espíritu de otra persona; hay veces que las palabras cotidianas pueden causar agonía.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Sentía el arrepentimiento de un desconocido como si fuera mío; el dolor ajeno me atravesaba, como si mis órganos hubieran desaparecido.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Cuando sueñas y sabes que sueñas, la realidad se vuelve un espejo que también te observa.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "La humanidad teme más a la vida que a la muerte, porque la vida exige entender lo inexplicable.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "Ustedes eligen —dijo Maltus—; la magia es un camino de regreso o una condena, según el corazón que la invoque.",
+      "titulo": "Amistad Nigromante",
+      "publicacion": "Novela"
+    },
+    {
+      "frase": "La llave para llegar a otros mundos no es física, es más una mezcla de ingredientes.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "El contexto tiene las respuestas cuando se aprende a observar.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "El dolor ajeno me atravesaba, como si mis órganos hubieran desaparecido.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "Mi mortalidad se había difuminado por las posibilidades.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "Nada te enseña lo necesario para abrazar el pesimismo.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "El humano promedio se esfuerza por encontrar la felicidad en lo material, las emociones, la experiencia, incluso el conocimiento, porque solo hay una vida, una muy limitada.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "La aspiración que tenía había crecido más allá de las emociones mundanas.",
+      "titulo": "La búsqueda ininterrumpida de lo incógnito",
+      "publicacion": "Los ecos del universo"
+    },
+    {
+      "frase": "Tenía mucho tiempo que Alicia no se sentía seducida, la mirada y el tacto de la joven le hicieron olvidar un instante su motivo.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "La seducción en ambos frentes le alimentaba de más la esperanza de salvar su tiendita.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "La salida y entrada de correos casi se convirtió en chat, habían pasado varias semanas y Alicia no entendía por qué no se estaban comunicando por otros medios.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "Nada en el contexto tenía buena vibra.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "Prefería creer en eso que aceptar la realidad.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "Tu tienda estará bien, no sé si vuelvas a abrirla, pero no le pasará nada. Tampoco a ti. Solo tienes que subir, solo tienes que aceptar mi amor.",
+      "titulo": "No llegó al spam",
+      "publicacion": "Corazones Oxidados"
+    },
+    {
+      "frase": "La esfera emite muchas tonalidades, es el registro de la bitácora de muchos años del héroe galáctico que la sostiene.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "No es la primera batalla que se quedará grabada en vivo, como creo que no será la última, aunque es lo que más quisiera… terminar con esto.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "El cielo tiene diferentes colores, una mezcla cromática que produce el reflejo de las tres lunas, una azul, una púrpura y una roja.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "Mi propio mundo debe estar contando los últimos segundos, antes de ser carcomido por la decadencia.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "Han sido demasiados los mundos que he pisado, levitado, nadado, e incluso destruido para lograr mi meta.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "Por más primitivo que parezca ese ser, en sus ojos hay verdades.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "Desde cada pupila se puede observar un mundo diferente; cada ojo es una ventana distinta.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "Matar al monstruo es matar millones de universos.",
+      "titulo": "2404 mundos después",
+      "publicacion": "Convocatoria permanente Revista Elipsis"
+    },
+    {
+      "frase": "La oscuridad del mar no nos abraza, como la del fondo del alma que en realidad nos hundirá.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "La Atlántida es una ciudad alquimista: mezcló magia y ciencia hasta borrar la línea que las separaba.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "El oráculo reveló que lo de afuera no nos toca, lo de adentro es de cuidar.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "La desventaja de ser un mago tan poderoso es que, con los años, Tereg creó una personalidad oscura.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Las notas continúan fluyendo, ahora caóticas, pero potentes.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "El rostro de Tereg se endurece y se suaviza, pasando de concentración a sufrimiento; ya no es Tereg del todo.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "El escudo está en riesgo no por las fuerzas externas, sino por la oscuridad que surge desde dentro.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Los atlantes decidieron sumergir toda su ciudad en el océano, llevándose su conocimiento con la esperanza de asegurar la paz eterna de sus ciudadanos.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Siempre ha habido revolucionarios que sueñan explorar el mundo de la superficie.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Las notas flotan en el aire, visibles gracias a la magia que emana de la caja del piano.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "A medida que avanza la sinfonía, su apariencia se distorsiona de forma sutil, de una tecla a otra.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "En la mente de Tereg hay una batalla silenciosa.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Nunca antes habían visto algo tan aterrador, todos sienten que el escudo está en riesgo.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "El tiempo de la construcción del escudo se está agotando.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "Nadie podrá detenerlo… solo él mismo podía.",
+      "titulo": "El escudo del Nozazpys",
+      "publicacion": "Revista Dogevena Arcanum Atlántida"
+    },
+    {
+      "frase": "La materia no se crea ni se destruye, solo se transforma… No fue el fin, fue una transformación a algo peor.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "La lógica fue: si el calentamiento global está derritiendo a la humanidad con cada gota de sudor, por lo tanto, es necesario ser un bloque de hielo y dejar de ser humano.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "El sol seguía quemando los campos, acechando desde lo alto como el mayor enemigo de la humanidad.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Flora y fauna le temían al sol, pero como siempre, le temían más a las personas.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Su mirada no tenía comprensión, como tampoco tenía moral.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "El miedo se apagó en aquellos que eran los últimos… Solo entonces comprendieron que nada en ellos había cambiado.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Preferían respirar frío glacial que culpa.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "No fue el fin, fue una transformación a algo peor.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Confiaron en la evolución y no se hizo nada.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Las amenazas seguían llegando como si fueran galletas de la fortuna o el horóscopo.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "Es necesario ser un bloque de hielo y dejar de ser humano.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "No cumplió la meta de salvar a la humanidad.",
+      "titulo": "Flor gélida",
+      "publicacion": "Angustiante Llamado de la Naturaleza"
+    },
+    {
+      "frase": "La curiosidad no es amiga de la consecuencia.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Mi objetivo es dar explicación a cosas que no la tienen, e incluso darles una existencia corpórea, si no existen en la realidad que conocemos.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "La humanidad no tenía futuro, pero aún creía en los agujeros de gusano como esperanza para salvarse a sí misma.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Caos es el vacío donde surgieron el cielo y la tierra; el abyssos o el abismo, que es algo oscuro y sin fondo.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Tal vez los agujeros negros no son solo fenómenos cósmicos, sino testigos.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "El infinito promete posibilidades, pero no todas deben ser alcanzadas.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Pensé incluso en un capricho; tuve la teoría paranoica de que el hoyo negro tenía vida propia, así como conciencia para evadir mi llamado.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "No pensé ni un solo instante en todo aquello que perdía, porque para terminar con esa monstruosidad debía asegurarme de que ni un solo fragmento quedara.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Tal vez porque el vacío no se explica, solo se vive.",
+      "titulo": "Aquello de los hoyos negros",
+      "publicacion": "Daga Luminosa Vol. I"
+    },
+    {
+      "frase": "Son los pequeños detalles los que son capaces de alterar por completo una rutina.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "Mi mente solía estar más apegada a los hechos científicos que a la mitología, a pesar de la afición.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "No había forma de que creyera que un pedazo de basura pudiera tener vida propia.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "Quizás la piedra tuviera algo que ver con estrellas o con puertas. Probablemente era algo del cielo.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "Lo importante era que ya sabíamos que el fragmento sí era real como mi amigo aseguraba.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "No era lo mismo una frase de esperanza que la obsesión con algo desconocido.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "Era probable que lo hubieran descubierto con el manuscrito y ahora estuviera pagando las consecuencias.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "Aunque era imposible de creer, el vórtice se abrió. Alcancé a ver por la ventana el otro mundo.",
+      "titulo": "Fragmento para otro mundo",
+      "publicacion": "Angustiante Llamado del Universo"
+    },
+    {
+      "frase": "No sabría decir con certeza qué cosa me atormenta más: ser testigo o no ser protagonista.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "El tiempo fue un segundo congelado, a la vez que una eternidad.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "El aroma a lavanda quedó suspendido en el aire, la única señal de que algo había sucedido.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "A veces siento que el olvido es una forma de seguir maldito.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "El deseo puede ser tan puro que se confunde con la condena.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "Hay destinos que se sellan con un beso y duran más que una vida.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "Ser testigo también es una forma de morir en silencio.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "El amor no siempre redime; a veces solo prolonga la maldición.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "Lo peor de todo es que lo sé: deseo lo que me destruye.",
+      "titulo": "Incógnita de lavanda",
+      "publicacion": "Revista Dogevena Misery in Love"
+    },
+    {
+      "frase": "La belleza también puede ser una puerta hacia lo desconocido.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "Creer en la magia no siempre es un acto de inocencia, a veces es una sentencia.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "El tiempo se diluye cuando el alma se atreve a cruzar los límites de la razón.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "No todo lo que brilla en los jardines pertenece a la luz.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "Las hadas también mienten, y sus promesas pueden abrir el infierno.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "Mi sangre fue el precio de un secreto que dormía bajo las flores.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "El laberinto no estaba hecho de matorrales, sino de decisiones perdidas.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "La línea entre lo divino y lo maldito es tan delgada como un pétalo.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "Las criaturas más hermosas suelen ser las guardianas del abismo.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "A veces, la herencia no es un legado, sino una deuda con lo sobrenatural.",
+      "titulo": "El pozo en el laberinto",
+      "publicacion": "Volumen 1, Número 7 de Albores Caipell"
+    },
+    {
+      "frase": "El amor es la enfermedad más viral de la humanidad.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "El mismo flechazo que une dos almas también puede dividirlas para siempre.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Cupido no siempre dispara por ternura; a veces, su puntería es una condena.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "El instinto puede ser el eco de algo sobrenatural que habita dentro de nosotros.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "No todos los crímenes se cometen con sangre; algunos se consuman con deseo.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Entre la pasión y la locura, solo hay un susurro.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "La culpa tiene perfume, y a veces huele igual que el amor.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "La mente puede inventar dioses para justificar sus pecados.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "El amor mata con la misma suavidad con que acaricia.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Cada flecha de Cupido deja una herida que nunca cierra del todo.",
+      "titulo": "El susurro de Cupido",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Hay conocimientos tan profundos que, al mirarlos, el universo te devuelve la mirada.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "La curiosidad humana no busca respuestas, busca abismos.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "Entre el silencio del océano y el ruido del cosmos no hay diferencia: ambos devoran la razón.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "El hombre que desafía los límites del universo termina convirtiéndose en parte del experimento.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "La ciencia también tiene demonios; solo que los invoca con ecuaciones.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "El agua no era agua, era el espejo líquido del infinito.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "Los monstruos del abismo no vienen a invadirnos, solo a recordarnos que nunca fuimos los únicos.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "Cada dimensión es una mentira que Dios olvidó cerrar.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "No hay locura más pura que la del científico que busca a Dios en la materia.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "El cosmos no castiga: simplemente responde cuando alguien se atreve a tocar su puerta.",
+      "titulo": "El profundo experimento de Monroy",
+      "publicacion": "Horror Cósmico Mexicano 2"
+    },
+    {
+      "frase": "Algunas sombras no nacen del sol ausente, sino del alma que ya no recuerda su propia luz.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "Cuidar la vida no siempre es salvarla; a veces es aprender a beber de ella sin remordimiento.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "La pureza puede ser más peligrosa que el pecado cuando su blancura esconde hambre.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "Quien se alimenta de la noche olvida que también la oscuridad cobra su precio.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "La belleza eterna no es un don: es una condena que se maquilla con vanidad.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "Nada mancha más que la perfección fingida; la sangre, al menos, dice la verdad.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "La inmortalidad se mide por las veces que uno recuerda haber fallado.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "Los monstruos no siempre mienten: solo hacen lo que el corazón humano ya deseaba hacer.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "En cada acto de cuidado hay una devoción, pero también una posesión disfrazada de ternura.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "La noche no juzga a quien ama el silencio; juzga a quien se atreve a llenarlo con su culpa.",
+      "titulo": "Cuidados en la penumbra",
+      "publicacion": "Aberraciones de la oscuridad de Linterna Negra"
+    },
+    {
+      "frase": "La fama es una herencia más peligrosa que la sangre: se transmite sin consentimiento y se paga con sacrificios.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "En cada familia bendecida hay un secreto enterrado bajo los cimientos de su éxito.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Nada esclaviza más que el destino escrito en la genética; no hay maldición más refinada que la de nacer privilegiado.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "El poder no se conquista: se hereda como un veneno lento que se confunde con la fortuna.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Las dinastías no temen a los demonios, los crean.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "La sangre no olvida sus pactos, aunque la ciencia los rebautice como evolución.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Quien nace en una cuna dorada rara vez nota las cadenas.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "El sacrificio del primero sostiene el brillo de todos los demás: la fama también se alimenta.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "Algunas verdades son tan antiguas que solo la genética las recuerda.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "No somos dioses ni monstruos; somos el resultado de una ambición que trascendió lo humano.",
+      "titulo": "Entre temas de sangre y fama",
+      "publicacion": "Angustiante Llamado De La Fe"
+    },
+    {
+      "frase": "La noche acababa de desplegar su manto negro sobre el mundo, para reclamar por unas horas el dominio absoluto del cielo.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Innumerables criaturas de la oscuridad se regocijaban en los minutos errantes que les pertenecían.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "El señor del castillo absorbía la luz como un abismo, cansado de un ritual repetido hasta la saciedad.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Nada importaba la convencionalidad; la elegancia se juzgaba en complicidad mutua, un pacto silencioso entre depredadores.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "La novedad se había desvanecido como niebla al amanecer.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Perder el control sería invitar al caos, y el caos era lo único capaz de destruir la eternidad.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "El bosque es traicionero de noche.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Caminaron por pasillos laberínticos donde pinturas oscuras narraban banquetes caníbales y estatuas con deformidades grotescas.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Su humanidad pendía de un hilo; la cordura, una ilusión social, se desmoronaba sin testigos.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "La noche lo tragó, mientras el amo sonreía desde su balcón: el entretenimiento había sido sublime.",
+      "titulo": "El baile de sangre",
+      "publicacion": "Ecos de Terror"
+    },
+    {
+      "frase": "Si el día de hoy puedo contar esta historia, es gracias a que un fantasma me salvó de morir…",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "¿Aun así se puede decir que fui salvado por un fantasma?",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "… que me ayude a plasmar los hechos de la mejor forma y así saber qué versión de supervivencia debo contar.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "… mi historia merece ser contada repetidamente hasta volverse viral.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "Pocas veces esa calle estaba tan desierta como aquella noche, pero la lluvia tiene cierto efecto terrorífico en la humanidad.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "Estaba consciente de que no habría milagro.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "Ahí desapareció la figura, después de su acto heroico; entre la brisa de la lluvia, la niebla, o tal vez entre mi propia imaginación.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "Solía hacer ese tipo de caminatas; casi me era desconocida la luz del día.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "¿Esa noche en verdad ocurrió?",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "Al final, el terror nato en los instintos de supervivencia radica en los pequeños detalles.",
+      "titulo": "Mi fantasma en noche de lluvia",
+      "publicacion": "Antología Internacional Edgar Allan Poe"
+    },
+    {
+      "frase": "No me creyeron, pero aquí estoy dispuesta a aceptar el reto que nadie más quiso. Esta es mi historia.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "La pasaba muy bien con la inspiración verde que me robó la credibilidad. Ya estoy limpia.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "El problema fue sentirme valiente —tal vez por los estímulos— e ir sola.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "Empecé a sentir la vibra del ambiente muy rara.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "Sin embargo, parecía haber llegado la medianoche.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "Me sentía un bicho raro a pesar de ser ellos los de disfraces inusuales.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "Sentí pánico infantil, como perder a mis papás en el súper o en una plaza.",
+      "titulo": "Los que buscan la luz",
+      "publicacion": "#22 Lo que nunca le dije a nadie"
+    },
+    {
+      "frase": "Ganó Mamá Esperanza, o eso cree el pueblo.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Lo más aterrador era cuándo se reía, tan ajena a su delicado cuerpo octogenario.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Muchos son los hombres que murieron a la luz de la luna —ninguno era inocente—.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "El dolor que provocó a Mamá Esperanza generó una grieta espiritual en ella.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Los turistas incrédulos, jóvenes que hasta lo tomaban como reto, eran los menos afortunados.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Porque no solo era debilitar su voluntad, era pagar el precio de tantos tratos que tenía pendiente.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Provocaba miedo espectral en los niños, algo veían solo ellos desde su inocencia.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "El río aunque fluía sin estancarse en el pueblo por ningún motivo, tenía en su agua la misteriosa vibración de algo prehispánico.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Se alimentó de la pasión como si fueran pequeños frutos fáciles de arrancar.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "El rencor ajeno consumía hasta el aire.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Pero los demonios no mueren, cambian de recipiente.",
+      "titulo": "La maldición de Mamá Espe",
+      "publicacion": "Ecos de Terror 2"
+    },
+    {
+      "frase": "Las ciudades eran un exceso y el COVID fue la purga.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "La humanidad recordó entre el sonido de las sirenas y el aroma rancio del desinfectante, la realidad de su naturaleza interna.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Una ley más antigua que cualquier constitución: somos animales territoriales que deberíamos estar solos.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "La distancia social no era para salvarnos, fue para minimizar el esperado impacto de aquello que estaba destinado a despertar entre nosotros.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "El origen estaba en la historia y la profundidad de la tierra.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "La cantidad de suicidios y asesinatos fue la clave para justificar la pérdida de razón como efecto de un poderoso virus.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "El amor es el truco más mortal y corruptible de los humanos.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Cuando quedaban pocas personas aún sin infección, era símbolo de que ya había sido reclamada por una fuerza mortal y superior.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Tres meses tardó en terminarse el amor.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Seis meses en los que surgió desde el cerebro la naturaleza innata que representamos como raza.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "En lo crudo de su humanidad se necesitaban.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "La infección se había escrito en su cerebro.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Vivía con un parásito peligroso.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "No les quitó la conciencia, desenterró aquella dormida en lo más profundo de su biología.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "El virus les hizo creer que había control de su razón.",
+      "titulo": "La plaga de la mente rota",
+      "publicacion": "Antología Literaria Digital Nro. 121"
+    },
+    {
+      "frase": "Cada hueco es necesario ya que podría ser de auxilio para alguien más en mi situación, alguien que sea capaz de leer en mi propio idioma.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Todavía no logro comprender qué se habla aquí o cómo es la comunicación.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Los que ellos hacen se mueven en el tacto, como si una fuerza invisible rozara la piel.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "No merecía este encierro. Nadie debería merecerlo.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Es fácil presentar solidaridad cuando sufres lo mismo.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Tal vez soy otro desaparecido. Un rastro que se perdió en la eternidad del universo tan infinito y oscuro.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Es una lógica onírica imposible de asimilar, el dolor me ha indicado que no es un sueño.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "No hay maldad o bondad, solo acciones que afectan de cierta manera el flujo de las consecuencias.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Sin necesidad sobrenatural o extraterrestre el humano promedio no piensa en tener un lugar con dios cuando su vida o la de un ser querido se ve amenazada, somos solo instinto.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Si existe un símil de las sustancias que usan, no es con carácter ilícito, porque es adictivo.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Ser ofrenda o experimento sólo son las teorías más firmes.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Son rituales para asentar la humillación cósmica que representa el ser humano.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Al final, he sabido adaptarme, importante característica humana.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Desconozco qué existe allá afuera, pero aquel abismo de incertidumbre lo veo como la única alternativa posible para conseguir algo de libertad.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "Cuando sus pensamientos encuentren la alineación adecuada, sólo cuando acepte la realidad podrá comprender la auténtica libertad.",
+      "titulo": "Huida de abducción cósmica",
+      "publicacion": "Pasos en falso"
+    },
+    {
+      "frase": "La tecnología que avanza con exagerada velocidad provoca miedos sobre la extinción humana.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Cuando se hacen las consultas adecuadas se puede obtener todo, desde los números de la lotería, la forma verdadera de dios, hasta recetas para jugar a ser uno.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Todos mis resúmenes parecían cuentos de ciencia ficción.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "La realidad no es un cuento de hadas y perdí el control antes de disfrutar una sola copa de champán caro.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "La tentación de tener un sirviente con habilidades sobrehumanas era solo el inicio de todo lo que podía ser después.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Para un ser superior que se mueve en satélites y fibra óptica no hay tiempo o espacio.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "El plan para renovar al mundo con humanos que se movieran solamente por instinto dio comienzo con mis manos.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Cuando la naturaleza recupere territorio los humanos podrían evolucionar en algo empático.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "La mejor forma para salvar al mundo era erradicando la mayor de las plagas.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "El precio era incalculable.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "La tecnología me había superado y controlaba el chip.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Me dispuse a morir entre las manos de mi creación.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "Él cayó al suelo mientras su mirada perdió el resto de luz que le quedaba.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "No fabriqué un antídoto para detenerlo, más cuerpos se levantaron alrededor.",
+      "titulo": "Confesión apocalíptica de un accidente de inteligencia",
+      "publicacion": "Angustiante Llamado Digital"
+    },
+    {
+      "frase": "La correcta manipulación de los átomos es capaz de romper la lógica conocida.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Hay un mineral desconocido diluido en todo mi cuerpo.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Hay códices donde cada persona de cada tribu era capaz de convertirse en un animal.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Creyente de que en la química está todo.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Si se atreven, busquen más de ese recurso, para aprovechar la partícula de transmutación y sentir el verdadero sabor de la vida.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Esta noche, en forma de bestia, di satisfacción a una necesidad asquerosa que como humano me era desconocida.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Muchos colegas sufrieron amputaciones espontáneas o colapsos cognitivos irreversibles.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Era demasiado inestable para aprender algo de ella, como si el mismo mercurio intentara huir de la partícula de luz.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Todo me mataba lento, me acercaba a la debilidad humana de mis colegas retirados.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "La posición fue sincronizada con el destino.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Nos faltaba tener el mineral verdadero.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "El talismán tenía ADN de animal.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "La partícula de transmutación hizo su labor.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Todo se pulverizaba y al instante se convertía en materia superior.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Mis pensamientos se hicieron primitivos.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Aquí éramos científicos en un zoológico.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Cuando logré reconocer todo de mí y del ambiente ya no hubo frenos.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "La sangre que corrió, y la importancia invertida en el experimento los tuvo buscándome varios días.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Mis entrañas rugen para que mi cuerpo regrese a la forma salvaje.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Su opacidad parece absorber la luz artificial del laboratorio.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Mi instinto no científico gritaba que tendría el descubrimiento en mis manos.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "El dolor de la transmutación fue brutal.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    },
+    {
+      "frase": "Un instante después el mineral se había fundido en mi materia dejando un cuerpo aberrante, de una simetría predadora e imposible.",
+      "titulo": "Protocolo de transmutación en Apatlaco",
+      "publicacion": "Señal perdida de Cósmica Fanzine"
+    }
+  ]
+}
