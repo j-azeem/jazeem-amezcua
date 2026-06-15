@@ -677,59 +677,59 @@ window.addEventListener('resize', debounce(function() {
 // ============================================
 // CONTADOR DE VISITANTES CON COUNTAPI
 // ============================================
-async function initVisitorCounter() {
-    const countElement = document.getElementById('visitorCount');
-    if (!countElement) return;
+// async function initVisitorCounter() {
+//     const countElement = document.getElementById('visitorCount');
+//     if (!countElement) return;
     
-    try {
-        // Verificar si ya visitó en esta sesión
-        const hasVisited = sessionStorage.getItem('visited');
+//     try {
+//         // Verificar si ya visitó en esta sesión
+//         const hasVisited = sessionStorage.getItem('visited');
         
-        if (!hasVisited) {
-            // Primera visita - incrementar contador
-            const response = await fetch('https://api.countapi.xyz/hit/jazeem-nigromante-site/visits');
-            const data = await response.json();
+//         if (!hasVisited) {
+//             // Primera visita - incrementar contador
+//             const response = await fetch('https://api.countapi.xyz/hit/jazeem-nigromante-site/visits');
+//             const data = await response.json();
             
-            sessionStorage.setItem('visited', 'true');
-            animateCounter(countElement, data.value);
-        } else {
-            // Ya visitó - solo obtener el número actual
-            const response = await fetch('https://api.countapi.xyz/get/jazeem-nigromante-site/visits');
-            const data = await response.json();
+//             sessionStorage.setItem('visited', 'true');
+//             animateCounter(countElement, data.value);
+//         } else {
+//             // Ya visitó - solo obtener el número actual
+//             const response = await fetch('https://api.countapi.xyz/get/jazeem-nigromante-site/visits');
+//             const data = await response.json();
             
-            animateCounter(countElement, data.value);
-        }
+//             animateCounter(countElement, data.value);
+//         }
         
-    } catch (error) {
-        console.error('Error con CountAPI:', error);
-        // Fallback a contador local
-        let count = parseInt(localStorage.getItem('visitorCount') || '0');
+//     } catch (error) {
+//         console.error('Error con CountAPI:', error);
+//         // Fallback a contador local
+//         let count = parseInt(localStorage.getItem('visitorCount') || '0');
         
-        if (!sessionStorage.getItem('visited')) {
-            count++;
-            localStorage.setItem('visitorCount', count.toString());
-            sessionStorage.setItem('visited', 'true');
-        }
+//         if (!sessionStorage.getItem('visited')) {
+//             count++;
+//             localStorage.setItem('visitorCount', count.toString());
+//             sessionStorage.setItem('visited', 'true');
+//         }
         
-        countElement.textContent = count.toLocaleString();
-    }
-}
+//         countElement.textContent = count.toLocaleString();
+//     }
+// }
 
-function animateCounter(element, targetCount) {
-    let current = 0;
-    const increment = Math.ceil(targetCount / 50);
-    const duration = 1500;
-    const stepTime = duration / (targetCount / increment);
+// function animateCounter(element, targetCount) {
+//     let current = 0;
+//     const increment = Math.ceil(targetCount / 50);
+//     const duration = 1500;
+//     const stepTime = duration / (targetCount / increment);
     
-    const timer = setInterval(() => {
-        current += increment;
-        if (current >= targetCount) {
-            current = targetCount;
-            clearInterval(timer);
-        }
-        element.textContent = current.toLocaleString();
-    }, stepTime);
-}
+//     const timer = setInterval(() => {
+//         current += increment;
+//         if (current >= targetCount) {
+//             current = targetCount;
+//             clearInterval(timer);
+//         }
+//         element.textContent = current.toLocaleString();
+//     }, stepTime);
+// }
 
 
 // ============================================
@@ -952,9 +952,9 @@ function initCemeteryScrollToTop() {
 
 
 // Inicializar contador cuando cargue la página
-document.addEventListener('DOMContentLoaded', function() {
-    // ... código existente ...
-    initVisitorCounter();
-});
+// document.addEventListener('DOMContentLoaded', function() {
+//      ... código existente ...
+//     initVisitorCounter();
+// });
 
 
