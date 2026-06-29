@@ -150,7 +150,7 @@
         "editorial": "Cósmica Fanzine",
         "mesPublicado": "Abril",
         "tipo": "Blog",
-        "descarga": null,
+        "descarga": "js/cemetery/story-10.pdf",
         "link": "https://cosmicafanzine.wixsite.com/website/post/el-sigilo-de-la-ira",
         "portada": "js/cemetery/story-10.png"
     },
@@ -166,7 +166,7 @@
         "editorial": "Straversa",
         "mesPublicado": "Octubre",
         "tipo": "Redes Sociales",
-        "descarga": null,
+        "descarga": "js/cemetery/story-11.pdf",
         "link": "https://www.facebook.com/photo/?fbid=497518925723824&set=a.238856634923389",
         "portada": "js/cemetery/story-11.png"
     },
@@ -182,7 +182,7 @@
         "editorial": "Penumbría & Diversidad(es)",
         "mesPublicado": "Octubre",
         "tipo": "Antología Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-12.pdf",
         "link": "https://drive.google.com/drive/folders/19Ksh1N_CGXMhQTtAn1HjIsojuz5bWgj3?usp=sharing",
         "portada": "js/cemetery/story-12.jpg"
     },
@@ -198,7 +198,7 @@
         "editorial": "Oxymorón / Trazo lunar",
         "mesPublicado": "Octubre",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-13.pdf",
         "link": "https://trazolunar.com.ar/libros/",
         "portada": "js/cemetery/story-13.jpg"
     },
@@ -214,7 +214,7 @@
         "editorial": "Oxymorón / Trazo lunar",
         "mesPublicado": "Octubre",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-14.pdf",
         "link": "https://trazolunar.com.ar/libros/",
         "portada": "js/cemetery/story-14.jpg"
     },
@@ -230,7 +230,7 @@
         "editorial": "Lebrí Editorial",
         "mesPublicado": "Octubre",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-15.pdf",
         "link": "https://www.lebri.com.mx/venta/terror/55-terror-vol-2.html",
         "portada": "js/cemetery/story-15.jpg"
     },
@@ -246,7 +246,7 @@
         "editorial": "Dragón Escritor",
         "mesPublicado": "Noviembre",
         "tipo": "Redes Sociales",
-        "descarga": null,
+        "descarga": "js/cemetery/story-16.pdf",
         "link": "https://www.instagram.com/revistadragonescritor/",
         "portada": "js/cemetery/story-16.png"
     },
@@ -262,7 +262,7 @@
         "editorial": "Anacronías",
         "mesPublicado": "Noviembre",
         "tipo": "Blog",
-        "descarga": null,
+        "descarga": "js/cemetery/story-17.pdf",
         "link": "https://revistanacronias.wordpress.com/2022/11/08/gliptotante/?fbclid=IwAR213k47dYeRwlRwXVSpA1vCeUDOWdekDnL3UxDPDKTtGGlPE2i87g5q0Jo",
         "portada": "js/cemetery/story-17.png"
     },
@@ -278,7 +278,7 @@
         "editorial": "El Nahual Errante",
         "mesPublicado": "Diciembre",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-18.pdf",
         "link": "https://elnahualerrante.aflip.in/10lovecraft.html#page/30",
         "portada": "js/cemetery/story-18.jpg"
     },
@@ -294,7 +294,7 @@
         "editorial": "Verso Inefable",
         "mesPublicado": "Diciembre",
         "tipo": "Antología Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-19.pdf",
         "portada": "js/cemetery/story-19.jpg"
     },
     {
@@ -309,7 +309,7 @@
         "editorial": "Aeternum",
         "mesPublicado": "Diciembre",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-20.pdf",
         "portada": "js/cemetery/story-20.jpg"
     },
     {
@@ -324,7 +324,7 @@
         "editorial": "Clan Kütral",
         "mesPublicado": "Enero",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-21.pdf",
         "link": "https://revistaclankutralhome.files.wordpress.com/2023/01/ck.15.final_.pdf",
         "portada": "js/cemetery/story-21.jpg"
     },
@@ -340,7 +340,7 @@
         "editorial": "Kanon Editorial",
         "mesPublicado": "Febrero",
         "tipo": "Antología Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-22.pdf",
         "portada": "js/cemetery/story-22.jpg"
     },
     {
@@ -355,7 +355,7 @@
         "editorial": "ITA Editorial",
         "mesPublicado": "Febrero",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-23.pdf",
         "link": "https://itabooks.com/producto/cuando-no-hay-nadie-aqui-nunca-podras-escapar-de-ti/",
         "portada": "js/cemetery/story-23.jpg"
     },
@@ -371,7 +371,7 @@
         "editorial": "Revista Trinado",
         "mesPublicado": "Febrero",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-24.pdf",
         "portada": "js/cemetery/story-24.jpg"
     },
     {
@@ -386,7 +386,7 @@
         "editorial": "Ediciones Rubeo",
         "mesPublicado": "Marzo",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-25.pdf",
         "link": "https://edicionesrubeo.quares.es/apex/r/quares/landingweb/detalle-producto?p2_id=34771&session=16277283356142",
         "portada": "js/cemetery/story-25.jpg"
     },
@@ -402,7 +402,7 @@
         "editorial": "Ediciones Rubeo",
         "mesPublicado": "Abril",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-26.pdf",
         "link": "https://edicionesrubeo.quares.es/apex/r/quares/landingweb/detalle-producto?p2_id=35766&session=16277283356142",
         "portada": "js/cemetery/story-26.jpg"
     },
@@ -418,7 +418,7 @@
         "editorial": "Revista Trinado",
         "mesPublicado": "Mayo",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-27.pdf",
         "portada": "js/cemetery/story-27.jpg"
     },
     {
@@ -433,7 +433,7 @@
         "editorial": "Revista Elipsis",
         "mesPublicado": "Mayo",
         "tipo": "Blog",
-        "descarga": null,
+        "descarga": "js/cemetery/story-28.pdf",
         "portada": "js/cemetery/story-28.png"
     },
     {
@@ -448,7 +448,7 @@
         "editorial": "Cósmica Fanzine",
         "mesPublicado": "Junio",
         "tipo": "Revista Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-29.pdf",
         "link": "https://drive.google.com/file/d/12cG6yWpXjPjF-P_7lX9iS9v-bMKcMpLD/view?usp=sharing",
         "portada": "js/cemetery/story-29.jpg"
     },
@@ -464,7 +464,7 @@
         "editorial": "Verso Inefable",
         "mesPublicado": "Julio",
         "tipo": "Antología Digital",
-        "descarga": null,
+        "descarga": "js/cemetery/story-30.pdf",
         "portada": "js/cemetery/story-30.jpg"
     },
     {
@@ -479,7 +479,7 @@
         "editorial": "Lebrí Editorial",
         "mesPublicado": "Octubre",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-31.pdf",
         "link": "https://www.lebri.com.mx/venta/terror/54-terror-vol-3.html",
         "portada": "js/cemetery/story-31.jpg"
     },
@@ -495,7 +495,7 @@
         "editorial": "Ediciones Rubeo",
         "mesPublicado": "Noviembre",
         "tipo": "Antología Impresa",
-        "descarga": null,
+        "descarga": "js/cemetery/story-32.pdf",
         "link": "https://edicionesrubeo.quares.es/apex/r/quares/landingweb/detalle-producto?p2_id=41945&session=6299085879621",
         "portada": "js/cemetery/story-32.jpg"
     },
@@ -955,7 +955,7 @@
         "mesPublicado": "Abril",
         "tipo": "Antología Impresa",
         "descarga": null,
-        "link": "https://1drv.ms/.../IQAXfvZu1X1HSpHagJv6ZLhiAXmQ0KVnqiatc...",
+        "link": "https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy8wOGQyZmEwNjNiNGI0YjU1L0lRQVhmdlp1MVgxSFNwSGFnSnY2WkxoaUFYbVEwS1ZucWlhdGM3UTZCRlZxbWUwP2U9ZzZUUUhMJmZiY2xpZD1Jd1kyeGphd1NyblZwbGVIUnVBMkZsYlFJeE1BQmljbWxrRVRGSVIxWllORlpJWm5sSVJVNVpPWEJyYzNKMFl3WmhjSEJmYVdRUU1qSXlNRE01TVRjNE9ESXdNRGc1TWdBQkhqNjRQMUhIOFhYdUVIMXpPa0dBSXBUNnloVzlsVkZTSXpUUkN6a05PTWgyLV9SZl9vcGJSYTFhMGdIY19hZW1fZ0hRWTJUMmZFeGJkLU5KZFdMQTU1QQ&cid=08D2FA063B4B4B55&id=8D2FA063B4B4B55%21s6ef67e177dd54a4791da809bfa64b862&parId=8D2FA063B4B4B55%21sd08a97cc7f9748cb91c87b98bbf19c0f&o=OneUp",
         "portada": "js/cemetery/story-61.jpg"
     },
     {
