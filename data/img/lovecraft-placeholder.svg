@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#131318"/>
+  <rect width="300" height="400" fill="none" stroke="#2a2a33" stroke-width="1"/>
+  <circle cx="150" cy="150" r="55" fill="none" stroke="#3d5240" stroke-width="1.5"/>
+  <path d="M90 320c0-55 27-95 60-95s60 40 60 95" fill="none" stroke="#3d5240" stroke-width="1.5"/>
+  <text x="150" y="365" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#6b6759" letter-spacing="4">H. P. L.</text>
+  <text x="150" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#4a4a42" letter-spacing="2">SUSTITUYE POR img/lovecraft.jpg</text>
+</svg>

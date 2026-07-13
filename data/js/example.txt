@@ -1,0 +1,7 @@
+{
+    "no": 8,
+    "titleEnglish": "Dagon",
+    "titleSpanish": "Dagon",
+    "text": "",
+    "footnote": "Escrito en 1917. Primera publicación en 1919 (revista amateur The Vagrant); reeditado en Weird Tales en 1923."
+  },

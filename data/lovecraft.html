@@ -1,92 +1,154 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Travesía Cósmica | J. Azeem Amezcua</title>
-    <link rel="stylesheet" href="../css/styles.css">
-    <style>
-        body {
-            background: linear-gradient(135deg, #8e0c25 0%, #4a0612 100%);
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            padding: 40px 20px;
-        }
-        
-        .temp-title {
-            font-family: 'Nomad', serif;
-            font-size: 4rem;
-            color: #ffbf00;
-            text-shadow: 4px 4px 0 #000000;
-            margin-bottom: 30px;
-            text-align: center;
-        }
-        
-        .subtitle {
-            font-family: 'Noche', serif;
-            font-size: 1.8rem;
-            color: #faf2b0;
-            font-style: italic;
-            margin-bottom: 40px;
-        }
-        
-        .temp-message {
-            font-family: 'Noche', serif;
-            font-size: 1.3rem;
-            color: #faf2b0;
-            max-width: 600px;
-            text-align: center;
-            line-height: 1.8;
-            margin-bottom: 40px;
-        }
-        
-        .lovecraft-icon {
-            font-size: 6rem;
-            margin: 30px 0;
-            filter: drop-shadow(0 0 20px rgba(255, 191, 0, 0.5));
-        }
-        
-        .back-button {
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            padding: 15px 40px;
-            background-color: #ffbf00;
-            border: 3px solid #000000;
-            border-radius: 10px;
-            color: #8e0c25;
-            font-family: 'Nomad', serif;
-            font-size: 1.2rem;
-            text-decoration: none;
-            transition: all 0.4s ease;
-            font-weight: bold;
-        }
-        
-        .back-button:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 12px 40px rgba(255, 191, 0, 0.6);
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>H. P. Lovecraft — Obra completa</title>
+<meta name="description" content="Catálogo completo de los cuentos de H. P. Lovecraft: títulos originales y en español, fechas de escritura y publicación, categorías y lecturas.">
+<link rel="stylesheet" href="lovecraft_styles.css">
 </head>
 <body>
-    <div class="lovecraft-icon">🐙</div>
-    
-    <h1 class="temp-title">Travesía Cósmica</h1>
-    
-    <p class="subtitle">Mi peregrinaje lovecraftiano</p>
-    
-    <p class="temp-message">
-        Esta página será maquetada posteriormente con la línea de tiempo de lecturas, 
-        el mapamundi lovecraftiano, el bestiario personal, análisis de influencias y más.
-        <br><br>
-        <em>"That is not dead which can eternal lie..."</em>
-    </p>
-    
-    <a href="../index.html" class="back-button">
-        ← Regresar al Mundo de los Vivos
-    </a>
+
+<!-- Fondo sólido con río de iconos animados -->
+<div class="grain-overlay" aria-hidden="true"></div>
+<div class="icon-river" id="icon-river" aria-hidden="true"></div>
+
+<!-- Definiciones SVG reutilizables (iconos monocromáticos) -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="icon-esoterico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+      <path d="M1 12s4-7 11-7 11 7 11 7-4 7-11 7-11-7-11-7z"/>
+      <circle cx="12" cy="12" r="3"/>
+    </symbol>
+    <symbol id="icon-cosmico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+      <path d="M12 2c1.5 3 1.5 6 0 9-1.5 3-1.5 6 0 9M12 2c-1.5 3-1.5 6 0 9-1.5 3 1.5 6 0 9"/>
+      <circle cx="12" cy="12" r="10"/>
+    </symbol>
+    <symbol id="icon-monstruos" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+      <path d="M4 3c0 4 2 5 2 9s-2 5-2 9M9 3c0 4 2 5 2 9s-2 5-2 9M14 3c0 4 2 5 2 9s-2 5-2 9M19 3c0 4 2 5 2 9s-2 5-2 9"/>
+    </symbol>
+    <symbol id="icon-mundos" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+      <circle cx="12" cy="12" r="9"/>
+      <ellipse cx="12" cy="12" rx="9" ry="3.5"/>
+      <path d="M6 6l12 12M18 6L6 18"/>
+    </symbol>
+    <symbol id="icon-suenos" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+      <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/>
+    </symbol>
+    <symbol id="icon-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+      <circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/>
+    </symbol>
+    <symbol id="icon-book" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+      <path d="M4 4.5A2.5 2.5 0 0 1 6.5 2H20v17H6.5A2.5 2.5 0 0 0 4 21.5v-17z"/>
+      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+    </symbol>
+    <symbol id="icon-grid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+      <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/>
+      <rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/>
+    </symbol>
+    <symbol id="icon-list" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+      <path d="M8 6h13M8 12h13M8 18h13"/><circle cx="3.5" cy="6" r="1"/><circle cx="3.5" cy="12" r="1"/><circle cx="3.5" cy="18" r="1"/>
+    </symbol>
+    <symbol id="icon-clear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+      <path d="M3 6h18M8 6V4a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2m2 0-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/>
+    </symbol>
+    <symbol id="icon-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+      <path d="M6 9l6 6 6-6"/>
+    </symbol>
+    <symbol id="icon-sort" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8">
+      <path class="sort-arrow" d="M12 4v16M12 4l-5 5M12 4l5 5"/>
+    </symbol>
+    <symbol id="icon-sigil" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="1">
+      <circle cx="20" cy="20" r="16"/>
+      <circle cx="20" cy="20" r="3"/>
+      <path d="M20 4v8M20 28v8M4 20h8M28 20h8M8.3 8.3l5.6 5.6M26.1 26.1l5.6 5.6M8.3 31.7l5.6-5.6M26.1 13.9l5.6-5.6"/>
+    </symbol>
+  </defs>
+</svg>
+
+<header class="hero">
+  <div class="hero-inner">
+    <div class="hero-portrait">
+      <img src="img/lovecraft.png" alt="Retrato de H. P. Lovecraft"
+           onerror="this.onerror=null;this.src='img/lovecraft-placeholder.svg';">
+    </div>
+    <div class="hero-text">
+      <span class="eyebrow">Horror cósmico · Providence, Rhode Island</span>
+      <h1>H. P. Lovecraft</h1>
+      <p class="hero-dates">20 de agosto de 1890 — 15 de marzo de 1937</p>
+      <p class="hero-bio">
+        Howard Phillips Lovecraft nació en Providence, Rhode Island, y murió en la misma ciudad
+        a los 46 años. Aunque en vida publicó casi exclusivamente en revistas pulp como
+        <em>Weird Tales</em> y vivió con estrecheces económicas, hoy se le reconoce como uno de
+        los padres del horror moderno y creador del llamado «horror cósmico». Su obra, poblada de
+        dioses indiferentes, geometrías imposibles y conocimientos prohibidos, dio origen a lo que
+        sus seguidores bautizarían como los Mitos de Cthulhu. Mantuvo una prolífica correspondencia
+        con jóvenes escritores —Robert E. Howard, Clark Ashton Smith, August Derleth— que
+        expandirían su universo tras su muerte. Nunca vio en vida el reconocimiento que alcanzaría
+        décadas después, cuando su obra fue rescatada, traducida y estudiada en todo el mundo.
+      </p>
+    </div>
+  </div>
+</header>
+
+<div class="sigil-divider" aria-hidden="true"><svg><use href="#icon-sigil"/></svg></div>
+
+<section class="search-section" aria-label="Buscador">
+  <form class="search-bar" id="search-form" role="search">
+    <input type="search" id="search-input" placeholder="Buscar por título, tema, categoría o co-autor…" autocomplete="off">
+    <button type="submit" class="btn-search"><svg><use href="#icon-search"/></svg>Buscar</button>
+  </form>
+</section>
+
+<section class="filters-section" aria-label="Filtros y orden">
+  <div class="filters-bar">
+
+    <div class="category-dropdown">
+      <button type="button" class="filter-control" id="category-toggle" aria-expanded="false">
+        Categorías <svg><use href="#icon-chevron"/></svg>
+      </button>
+      <div class="category-menu" id="category-menu">
+        <p class="category-menu-hint">Combina varias para ver solo los cuentos que las tengan todas.</p>
+        <label><input type="checkbox" value="esoterico"><svg><use href="#icon-esoterico"/></svg>Esotérico</label>
+        <label><input type="checkbox" value="cosmico"><svg><use href="#icon-cosmico"/></svg>Cósmico</label>
+        <label><input type="checkbox" value="monstruos"><svg><use href="#icon-monstruos"/></svg>Monstruos</label>
+        <label><input type="checkbox" value="suenos"><svg><use href="#icon-suenos"/></svg>Sueños</label>
+        <label><input type="checkbox" value="mundos"><svg><use href="#icon-mundos"/></svg>Mundos</label>
+      </div>
+    </div>
+
+    <button type="button" class="filter-control" id="sort-publish" data-sort="publish">
+      Fecha de publicación <svg class="sort-icon"><use href="#icon-sort"/></svg>
+    </button>
+    <button type="button" class="filter-control" id="sort-writing" data-sort="writing">
+      Fecha de escritura <svg class="sort-icon"><use href="#icon-sort"/></svg>
+    </button>
+
+    <div class="view-toggle" role="group" aria-label="Vista">
+      <button type="button" id="view-list" class="active" aria-pressed="true" title="Vista de lista"><svg><use href="#icon-list"/></svg></button>
+      <button type="button" id="view-grid" aria-pressed="false" title="Vista de bloques"><svg><use href="#icon-grid"/></svg></button>
+    </div>
+
+    <button type="button" class="btn-clear" id="btn-clear"><svg><use href="#icon-clear"/></svg>Limpiar</button>
+  </div>
+</section>
+
+<p class="results-count" id="results-count" aria-live="polite"></p>
+
+<main class="cards-section">
+  <div class="cards-wrap">
+    <div class="cards-list" id="list-view"></div>
+    <div class="cards-grid" id="grid-view" style="display:none;"></div>
+    <p class="no-results" id="no-results">No se encontró ningún cuento con esos criterios.</p>
+  </div>
+</main>
+
+<div class="sigil-divider" aria-hidden="true"><svg><use href="#icon-sigil"/></svg></div>
+
+<footer>
+  H. P. Lovecraft (1890–1937) · Catálogo de cuentos · Sitio de aficionado sin fines comerciales
+</footer>
+
+<script src="js/lovecraft_script.js"></script>
 </body>
 </html>
