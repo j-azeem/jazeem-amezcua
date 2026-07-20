@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Umbral — Generador de ideas narrativas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="gen-styles.css">
+</head>
+<body>
+
+<div class="stage-backdrop" aria-hidden="true"></div>
+
+<main class="window" role="application" aria-label="Umbral, generador de ideas narrativas">
+
+  <!-- Barra superior: pestañas de etapa + herramientas -->
+  <header class="window-bar">
+    <div class="window-dots" aria-hidden="true">
+      <span></span><span></span><span></span>
+    </div>
+
+    <nav class="tabs" role="tablist" aria-label="Etapas del proceso">
+      <button class="tab" role="tab" data-stage="clave" aria-selected="true">
+        <span class="tab-index">I</span> Clave
+      </button>
+      <button class="tab" role="tab" data-stage="desglose" aria-selected="false">
+        <span class="tab-index">II</span> Desglose
+      </button>
+      <button class="tab" role="tab" data-stage="concepto" aria-selected="false">
+        <span class="tab-index">III</span> Concepto
+      </button>
+      <button class="tab" role="tab" data-stage="contexto" aria-selected="false">
+        <span class="tab-index">IV</span> Contexto
+      </button>
+      <button class="tab" role="tab" data-stage="conclusion" aria-selected="false">
+        <span class="tab-index">V</span> Conclusión
+      </button>
+    </nav>
+
+    <div class="toolbar no-print">
+      <button class="icon-btn" id="btn-print" type="button" title="Imprimir esta etapa" aria-label="Imprimir esta etapa">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 9V3h12v6M6 18H4a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1h-2M6 14h12v7H6z"/></svg>
+      </button>
+      <button class="icon-btn icon-btn--danger" id="btn-reset" type="button" title="Reiniciar esta etapa" aria-label="Reiniciar esta etapa">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 12a9 9 0 1 1 3.2 6.9M3 12V6M3 12h6"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Contenido de la etapa activa, inyectado dinámicamente -->
+  <section class="stage-content" id="stage-content" aria-live="polite"></section>
+
+  <footer class="window-footer no-print">
+    <span>Umbral · un cuarto oscuro para ideas que aún no existen</span>
+  </footer>
+</main>
+
+<script src="js/gen-script.js"></script>
+</body>
+</html>

@@ -988,5 +988,21 @@
         "descarga": null,
         "link": "https://oclesis.com.mx/revistas/",
         "portada": "js/cemetery/story-63.jpg"
+    },
+    {
+        "id": 64,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Conexiones desde un elevador",
+        "anioEscrito": 2024,
+        "anioPublicado": 2026,
+        "numPalabras": 3922,
+        "temas": "Otros mundos, ciencia, monstruos",
+        "publicacion": "Visiones Peligrosas, año 1, número 3",
+        "editorial": "Visiones Peligrosas",
+        "mesPublicado": "Julio",
+        "tipo": "Revista digital",
+        "descarga": null,
+        "link": "https://drive.google.com/file/d/1AXDlvk1-QejfpgQsAM37bsfxUfx7_c7O/view?usp=sharing",
+        "portada": "js/cemetery/story-64.jpg"
     }
 ]
