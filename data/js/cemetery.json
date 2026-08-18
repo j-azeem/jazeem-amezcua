@@ -1004,5 +1004,37 @@
         "descarga": null,
         "link": "https://drive.google.com/file/d/1AXDlvk1-QejfpgQsAM37bsfxUfx7_c7O/view?usp=sharing",
         "portada": "js/cemetery/story-64.jpg"
+    },
+    {
+        "id": 65,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "El derrocamiento del monstruo",
+        "anioEscrito": 2022,
+        "anioPublicado": 2026,
+        "numPalabras": 1684,
+        "temas": "Huay chivo, sacrificio, nahual",
+        "publicacion": "Revista Dogevena Silentia",
+        "editorial": "ToxiMorrox",
+        "mesPublicado": "Julio",
+        "tipo": "Revista digital",
+        "descarga": null,
+        "link": "https://www.calameo.com/books/0075052406b13c2ef3dfd",
+        "portada": "js/cemetery/story-65.jpg"
+    },
+    {
+        "id": 66,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Heredero del árbol maldito",
+        "anioEscrito": 2022,
+        "anioPublicado": 2026,
+        "numPalabras": 1457,
+        "temas": "Hermanos, pelea, fuego",
+        "publicacion": "Antología Internacional Ecos de Terror 3",
+        "editorial": "José Sarabia",
+        "mesPublicado": "Agosto",
+        "tipo": "Antología Impresa",
+        "descarga": null,
+        "link": "https://arturosarabia.com.mx/Ecos_de_terror_3.pdf",
+        "portada": "js/cemetery/story-66.jpg"
     }
 ]
