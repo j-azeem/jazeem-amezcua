@@ -1036,5 +1036,37 @@
         "descarga": null,
         "link": "https://arturosarabia.com.mx/Ecos_de_terror_3.pdf",
         "portada": "js/cemetery/story-66.jpg"
+    },
+    {
+        "id": 67,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "No nadar en Xochimilco",
+        "anioEscrito": 2023,
+        "anioPublicado": 2026,
+        "numPalabras": 1480,
+        "temas": "Agua, monstruo, Xochimilco",
+        "publicacion": "Bajo la mirada de los antiguos",
+        "editorial": "Luna roja de Editorial Rubin",
+        "mesPublicado": "Agosto",
+        "tipo": "Antología Impresa",
+        "descarga": null,
+        "link": "https://rubineditorial.com/nuestros-libros/bajo-la-mirada-de-los-antiguos-2/",
+        "portada": "js/cemetery/story-67.jpg"
+    },
+    {
+        "id": 68,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Invocación de la bruja artificial",
+        "anioEscrito": 2022,
+        "anioPublicado": 2026,
+        "numPalabras": 1248,
+        "temas": "Bruja, tecnología, IA",
+        "publicacion": "Sección de Cuentos del blog Escritores Rebeldes",
+        "editorial": "Escritores Rebeldes",
+        "mesPublicado": "Agosto",
+        "tipo": "Blog",
+        "descarga": null,
+        "link": "https://escritoresrebeldes.com/2026/08/24/invocacion-de-la-bruja-artificial/",
+        "portada": "js/cemetery/story-68.png"
     }
 ]
