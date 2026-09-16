@@ -1068,5 +1068,37 @@
         "descarga": null,
         "link": "https://escritoresrebeldes.com/2026/08/24/invocacion-de-la-bruja-artificial/",
         "portada": "js/cemetery/story-68.png"
+    },
+    {
+        "id": 69,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Para cumplir la profecía de la naturaleza",
+        "anioEscrito": 2024,
+        "anioPublicado": 2026,
+        "numPalabras": 799,
+        "temas": "Profecía, legado, luna de sangre",
+        "publicacion": "Blog Julio a Septiembre 2026",
+        "editorial": "Clan Kütral",
+        "mesPublicado": "Septiembre",
+        "tipo": "Blog",
+        "descarga": null,
+        "link": "https://revistaclankutral.com/2026/09/15/para-cumplir-la-profecia-de-la-naturaleza/",
+        "portada": "js/cemetery/story-69.jpg"
+    },
+    {
+        "id": 70,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Privatización de los dioses",
+        "anioEscrito": 2022,
+        "anioPublicado": 2026,
+        "numPalabras": 1024,
+        "temas": "Dioses, viaje, batalla",
+        "publicacion": "Sarape de Neón No.5: Mexanacronías",
+        "editorial": "Sarpae de Neón",
+        "mesPublicado": "Septiembre",
+        "tipo": "Revista Digital",
+        "descarga": null,
+        "link": "https://sarapedeneon.com/mexanacronias/",
+        "portada": "js/cemetery/story-70.png"
     }
 ]
