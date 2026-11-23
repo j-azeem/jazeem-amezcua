@@ -1228,5 +1228,21 @@
         "descarga": null,
         "link": "https://www.calameo.com/books/0070703975756c44e858f",
         "portada": "js/cemetery/story-78.jpg"
+    },
+    {
+        "id": 79,
+        "yearSection": "2026: El ahora esta por tener nombre",
+        "titulo": "Ciudad insegura",
+        "anioEscrito": 2024,
+        "anioPublicado": 2026,
+        "numPalabras": 4486,
+        "temas": "Vampíros, romance, secuestro",
+        "publicacion": "Año seis, número trece, dos mil veintiseis, revista de literatura",
+        "editorial": "Aquiescencia Editorial",
+        "mesPublicado": "Noviembre",
+        "tipo": "Revista Digital",
+        "descarga": null,
+        "link": "https://drive.google.com/file/d/1voX1NwHMk-TLYaKAxSmepz6TyfbVXhRM/view?usp=sharing",
+        "portada": "js/cemetery/story-79.jpg"
     }
 ]
